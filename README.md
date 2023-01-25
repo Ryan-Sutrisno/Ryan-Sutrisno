@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ryan</h1>
-<h3 align="center">A passionate backend developer from the Netherlands and a student at the bit-academy</h3>
+<h3 align="center">A passionate fullstack developer from the Netherlands and a student at the bit-academy</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryan-sutrisno&label=Profile%20views&color=0e75b6&style=flat" alt="ryan-sutrisno" /> </p>
 
